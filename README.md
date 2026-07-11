@@ -23,6 +23,10 @@ machine-learning-transition/
 - Document experiments, observations, and results
 - Progress from beginner concepts to production-ready implementations
 
+## Acknowledgments
+
+Many examples and exercises in this repository are adapted from [Sheryians AI School](https://youtu.be/1L420xXpDTg?si=VSN1PIdnBWjg7Wf4), used here for personal learning purposes.
+
 ## Related Repositories
 
 - **[Data Journey](https://github.com/m-ahmad-amin/Data-Journey)**: Python, NumPy, Pandas, Matplotlib, Seaborn, and other data science fundamentals.
