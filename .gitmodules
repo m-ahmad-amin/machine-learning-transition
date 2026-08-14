@@ -1,0 +1,3 @@
+[submodule "Supervised Machine Learning/Regression/Linear Regression/insurance-prediction"]
+	path = Supervised Machine Learning/Regression/Linear Regression/insurance-prediction
+	url = https://github.com/m-ahmad-amin/insurance-prediction.git
