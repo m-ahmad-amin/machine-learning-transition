@@ -13,6 +13,7 @@ Each machine learning topic is organized into its own folder, containing:
 machine-learning-transition/
 ├── Exploratory Data Analysis/
 ├── Supervised Machine Learning/
+├── misc/
 └── README.md
 ```
 
